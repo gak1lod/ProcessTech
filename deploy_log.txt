@@ -1,0 +1,432 @@
+
+================================================== 
+Deployment uruchomiony: 16.09.2025 14:13:54,16 
+================================================== 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : wtorek, 16 wrzesnia 2025 14:13:54
+   Source : C:\Users\GAK1LOD\OneDrive - Bosch Group\Backup Diadem scripts\Scripts\
+     Dest : C:\Users\GAK1LOD\OneDrive - Bosch Group\LaundryTreatment - Diadem scripts\Scripts\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /NP /XO /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	                  45	C:\Users\GAK1LOD\OneDrive - Bosch Group\Backup Diadem scripts\Scripts\
+	  *EXTRA File 		    1448	NewSheet2D.VBS
+	  *EXTRA File 		    7788	NONAME.TDV
+	  *EXTRA File 		  425764	PLCRig@SI0VM07175.urf
+	  *EXTRA File 		    3440	ReloadLists.VBS
+	  *EXTRA File 		    3838	ReplaceShortcutPaths.VBS
+	  *EXTRA File 		     702	RootClear.VBS
+	  *EXTRA File 		  166896	ShowColors.SUD
+	  *EXTRA File 		    2231	ShowColors.VBS
+	  *EXTRA File 		    8148	SingleVariable.VBS
+	  *EXTRA File 		    6586	SortStuff.VBS
+	  *EXTRA File 		    6282	SortStuff_old.VBS
+	  *EXTRA File 		   62330	SSTR_sample 1.xlsx
+	  *EXTRA File 		   62141	SSTR_sample 2.xlsx
+	  *EXTRA File 		   62295	SSTR_sample 3.xlsx
+	  *EXTRA File 		    8124	TDMS headers to excel.VBS
+	  *EXTRA File 		   33863	TDMS manipulator.SUD
+	  *EXTRA File 		   13564	TDMS to Uli.VBS
+	  *EXTRA File 		   16562	TdoorForuwmin.VBS
+	  *EXTRA File 		   32072	Temperatures T20 with time.VBS
+	  *EXTRA File 		   16572	Temperatures T20.VBS
+	  *EXTRA File 		   32083	test.SUD
+	  *EXTRA File 		    3034	TestRig_FixNames.VBS
+	  *EXTRA File 		    1006	TestRig_TestID.VBS
+	  *EXTRA File 		   51086	TEST_manipulatingnavigator.VBS
+	  *EXTRA File 		  180390	UI_wide.SUD
+	  *EXTRA File 		    9008	UI_wide.TDV
+	  *EXTRA File 		    1296	UserForm_changelog.txt
+	  *EXTRA File 		    1890	uwMin200par.VBS
+	  *EXTRA File 		   12904	uw_Min_CondOut_w_scaling.VBS
+	    Newer     		    3768	AddLabelDescription.VBS
+	    Newer     		     382	All.lst
+	    Newer     		   13960	Almemize3.VBS
+	    Newer     		     834	BackToForm.VBS
+	    Newer     		    4560	CalculateMSTR.VBS
+	    Newer     		    1216	ChckTimeChn.VBS
+	    Newer     		    3842	Chn2Exc.VBS
+	    Newer     		   11926	CRDM.VBS
+	    Newer     		   13820	CustomVariable.VBS
+	    Newer     		     538	defaultworkspace.WSP
+	    Newer     		    1446	DeleteAllGraphs.VBS
+	    Newer     		    9560	DrumPowerNALAPT05 minus control system.VBS
+	    Newer     		    7406	DrumPowerNALAPT05.VBS
+	    Newer     		    7032	DryingRate.VBS
+	    Newer     		    9910	EDD-Value at end.VBS
+	    Newer     		   22506	EEIcalc - kopia.tca
+	    Newer     		   22506	EEIcalc.tca
+	    Newer     		    2942	Energy for MC.VBS
+	    Newer     		    1480	EventOnInteractionLoaded.VBS
+	    Newer     		  309326	Exchange.xlsx
+	    Newer     		   20630	ExchangeMaster.VBS
+	    Newer     		    2812	ExpMetadata.VBS
+	    Newer     		   16350	FindTimeInChn.VBS
+	    Newer     		   24334	FindTimeInChn_Labsys.VBS
+	    Newer     		   22414	LabsysExchangeMaster.VBS
+	    Newer     		   15100	LastValue.VBS
+	    Newer     		   29376	LayoutWithDialogAndPages.TDV
+	    Newer     		    1772	Legend.VBS
+	    Newer     		    5986	LoadLists.VBS
+	    Newer     		  11.8 m	log.txt
+	    Newer     		    3334	LogToFile.VBS
+	    Newer     		    4878	LPM transfer.VBS
+	    Newer     		    8490	make200digTable.VBS
+	    Newer     		    8218	mass2FMC.VBS
+	    Newer     		    9830	mass2FMC_labsys.VBS
+	    Newer     		   24768	mass2FMC_testrig.VBS
+	    Newer     		  758556	MaSSTR v1.2.xlsm
+	    Newer     		  131977	MSTR.xlsm
+	    Newer     		    1004	mydblclck.VBS
+	    Newer     		   75117	NewEEI.SUD
+	    Newer     		  148434	NewEEI_tabtest.SUD
+	    Newer     		  232889	NewEEI_tabtestLocal.SUD
+	    Newer     		  245519	NewEEI_tabtestLocal_Diadem2022.SUD
+	    Newer     		   16701	NewEEI_tabtestLocal_test.SUD
+	    Newer     		   41269	NewEEI_var2.SUD
+	                   0	C:\Users\GAK1LOD\OneDrive - Bosch Group\Backup Diadem scripts\Scripts\trash\
+	  *EXTRA File 		    5858	selected test headers to excel.VBS
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         0         2         0         0         0
+   Files :        45        45         0         0         0        30
+   Bytes :   14.07 m   14.07 m         0         0         0    1.18 m
+   Times :   0:00:38   0:00:26                       0:00:00   0:00:12
+
+
+   Speed :             561 204 Bytes/sec.
+   Speed :              32,112 MegaBytes/min.
+   Ended : wtorek, 16 wrzesnia 2025 14:14:32
+
+ 
+Deployment zakonczony: 16.09.2025 14:14:32,98 
+ 
+================================================== 
+Deployment uruchomiony: 16.09.2025 14:17:02,27 
+================================================== 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : wtorek, 16 wrzesnia 2025 14:17:02
+   Source : C:\Users\GAK1LOD\OneDrive - Bosch Group\Backup Diadem scripts\Scripts\
+     Dest : C:\Users\GAK1LOD\OneDrive - Bosch Group\LaundryTreatment - Diadem scripts\Scripts\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /NP /XO /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	                  45	C:\Users\GAK1LOD\OneDrive - Bosch Group\Backup Diadem scripts\Scripts\
+	    New File  		    3768	AddLabelDescription.VBS
+	    New File  		     382	All.lst
+	    New File  		   13960	Almemize3.VBS
+	    New File  		     834	BackToForm.VBS
+	    New File  		    4560	CalculateMSTR.VBS
+	    New File  		    1216	ChckTimeChn.VBS
+	    New File  		    3842	Chn2Exc.VBS
+	    New File  		   11926	CRDM.VBS
+	    New File  		   13820	CustomVariable.VBS
+	    New File  		     538	defaultworkspace.WSP
+	    New File  		    1446	DeleteAllGraphs.VBS
+	    New File  		    9560	DrumPowerNALAPT05 minus control system.VBS
+	    New File  		    7406	DrumPowerNALAPT05.VBS
+	    New File  		    7032	DryingRate.VBS
+	    New File  		    9910	EDD-Value at end.VBS
+	    New File  		   22506	EEIcalc - kopia.tca
+	    New File  		   22506	EEIcalc.tca
+	    New File  		    2942	Energy for MC.VBS
+	    New File  		    1480	EventOnInteractionLoaded.VBS
+	    New File  		  309326	Exchange.xlsx
+	    New File  		   20630	ExchangeMaster.VBS
+	    New File  		    2812	ExpMetadata.VBS
+	    New File  		   16350	FindTimeInChn.VBS
+	    New File  		   24334	FindTimeInChn_Labsys.VBS
+	    New File  		   22414	LabsysExchangeMaster.VBS
+	    New File  		   15100	LastValue.VBS
+	    New File  		   29376	LayoutWithDialogAndPages.TDV
+	    New File  		    1772	Legend.VBS
+	    New File  		    5986	LoadLists.VBS
+	    New File  		  11.8 m	log.txt
+	    New File  		    3334	LogToFile.VBS
+	    New File  		    4878	LPM transfer.VBS
+	    New File  		    8490	make200digTable.VBS
+	    New File  		    8218	mass2FMC.VBS
+	    New File  		    9830	mass2FMC_labsys.VBS
+	    New File  		   24768	mass2FMC_testrig.VBS
+	    New File  		  758556	MaSSTR v1.2.xlsm
+	    New File  		  131977	MSTR.xlsm
+	    New File  		    1004	mydblclck.VBS
+	    New File  		   75117	NewEEI.SUD
+	    New File  		  148434	NewEEI_tabtest.SUD
+	    New File  		  232889	NewEEI_tabtestLocal.SUD
+	    New File  		  245519	NewEEI_tabtestLocal_Diadem2022.SUD
+	    New File  		   16701	NewEEI_tabtestLocal_test.SUD
+	    New File  		   41269	NewEEI_var2.SUD
+	  New Dir          0	C:\Users\GAK1LOD\OneDrive - Bosch Group\Backup Diadem scripts\Scripts\trash\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         1         1         0         0         0
+   Files :        45        45         0         0         0         0
+   Bytes :   14.07 m   14.07 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           76ÿ057ÿ690 Bytes/sec.
+   Speed :             4352,056 MegaBytes/min.
+   Ended : wtorek, 16 wrzesnia 2025 14:17:02
+
+ 
+Deployment zakonczony: 16.09.2025 14:17:02,61 
+ 
+================================================== 
+Deployment uruchomiony: 16.09.2025 14:19:39,92 
+================================================== 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : wtorek, 16 wrzesnia 2025 14:19:39
+   Source : C:\Users\GAK1LOD\OneDrive - Bosch Group\Backup Diadem scripts\Scripts\
+     Dest : C:\Users\GAK1LOD\OneDrive - Bosch Group\LaundryTreatment - Diadem scripts\Scripts\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /NP /XO /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	                  74	C:\Users\GAK1LOD\OneDrive - Bosch Group\Backup Diadem scripts\Scripts\
+	    New File  		    3768	AddLabelDescription.VBS
+	    New File  		     382	All.lst
+	    New File  		   13960	Almemize3.VBS
+	    New File  		     834	BackToForm.VBS
+	    New File  		    4560	CalculateMSTR.VBS
+	    New File  		    1216	ChckTimeChn.VBS
+	    New File  		    3842	Chn2Exc.VBS
+	    New File  		   11926	CRDM.VBS
+	    New File  		   13820	CustomVariable.VBS
+	    New File  		     538	defaultworkspace.WSP
+	    New File  		    1446	DeleteAllGraphs.VBS
+	    New File  		    9560	DrumPowerNALAPT05 minus control system.VBS
+	    New File  		    7406	DrumPowerNALAPT05.VBS
+	    New File  		    7032	DryingRate.VBS
+	    New File  		    9910	EDD-Value at end.VBS
+	    New File  		   22506	EEIcalc - kopia.tca
+	    New File  		   22506	EEIcalc.tca
+	    New File  		    2942	Energy for MC.VBS
+	    New File  		    1480	EventOnInteractionLoaded.VBS
+	    New File  		  309328	Exchange.xlsx
+	    New File  		   20630	ExchangeMaster.VBS
+	    New File  		    2812	ExpMetadata.VBS
+	    New File  		   16350	FindTimeInChn.VBS
+	    New File  		   24334	FindTimeInChn_Labsys.VBS
+	    New File  		   22414	LabsysExchangeMaster.VBS
+	    New File  		   15100	LastValue.VBS
+	    New File  		   29376	LayoutWithDialogAndPages.TDV
+	    New File  		    1772	Legend.VBS
+	    New File  		    5986	LoadLists.VBS
+	    New File  		  11.8 m	log.txt
+	    New File  		    3334	LogToFile.VBS
+	    New File  		    4878	LPM transfer.VBS
+	    New File  		    8490	make200digTable.VBS
+	    New File  		    8218	mass2FMC.VBS
+	    New File  		    9830	mass2FMC_labsys.VBS
+	    New File  		   24768	mass2FMC_testrig.VBS
+	    New File  		  745164	MaSSTR v1.2.xlsm
+	    New File  		  128966	MSTR.xlsm
+	    New File  		    1004	mydblclck.VBS
+	    New File  		   75117	NewEEI.SUD
+	    New File  		  148434	NewEEI_tabtest.SUD
+	    New File  		  232889	NewEEI_tabtestLocal.SUD
+	    New File  		  245519	NewEEI_tabtestLocal_Diadem2022.SUD
+	    New File  		   16701	NewEEI_tabtestLocal_test.SUD
+	    New File  		   41269	NewEEI_var2.SUD
+	    New File  		    1448	NewSheet2D.VBS
+	    New File  		    7788	NONAME.TDV
+	    New File  		  425764	PLCRig@SI0VM07175.urf
+	    New File  		    3440	ReloadLists.VBS
+	    New File  		    3838	ReplaceShortcutPaths.VBS
+	    New File  		     702	RootClear.VBS
+	    New File  		  166896	ShowColors.SUD
+	    New File  		    2231	ShowColors.VBS
+	    New File  		    8148	SingleVariable.VBS
+	    New File  		    6586	SortStuff.VBS
+	    New File  		    6282	SortStuff_old.VBS
+	    New File  		   55070	SSTR_sample 1.xlsx
+	    New File  		   54885	SSTR_sample 2.xlsx
+	    New File  		   55040	SSTR_sample 3.xlsx
+	    New File  		    8124	TDMS headers to excel.VBS
+	    New File  		   33863	TDMS manipulator.SUD
+	    New File  		   13564	TDMS to Uli.VBS
+	    New File  		   16562	TdoorForuwmin.VBS
+	    New File  		   32072	Temperatures T20 with time.VBS
+	    New File  		   16572	Temperatures T20.VBS
+	    New File  		   32083	test.SUD
+	    New File  		    3034	TestRig_FixNames.VBS
+	    New File  		    1006	TestRig_TestID.VBS
+	    New File  		   51086	TEST_manipulatingnavigator.VBS
+	    New File  		  180390	UI_wide.SUD
+	    New File  		    9008	UI_wide.TDV
+	    New File  		    1296	UserForm_changelog.txt
+	    New File  		    1890	uwMin200par.VBS
+	    New File  		   12904	uw_Min_CondOut_w_scaling.VBS
+	  New Dir          1	C:\Users\GAK1LOD\OneDrive - Bosch Group\Backup Diadem scripts\Scripts\trash\
+	    New File  		    5858	selected test headers to excel.VBS
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         1         1         0         0         0
+   Files :        75        75         0         0         0         0
+   Bytes :   15.21 m   15.21 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           61ÿ134ÿ946 Bytes/sec.
+   Speed :             3498,170 MegaBytes/min.
+   Ended : wtorek, 16 wrzesnia 2025 14:19:40
+
+ 
+Deployment zakonczony: 16.09.2025 14:19:40,32 
+ 
+================================================== 
+Deployment uruchomiony: 16.09.2025 14:38:06,85 
+================================================== 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : wtorek, 16 wrzesnia 2025 14:38:06
+   Source : C:\Users\GAK1LOD\OneDrive - Bosch Group\Backup Diadem scripts\Scripts\
+     Dest : C:\Users\GAK1LOD\OneDrive - Bosch Group\LaundryTreatment - Diadem scripts\Scripts\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /NP /XO /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	                  74	C:\Users\GAK1LOD\OneDrive - Bosch Group\Backup Diadem scripts\Scripts\
+	    Newer     		     382	All.lst
+	    Newer     		  11.8 m	log.txt
+	    Newer     		   24846	mass2FMC_testrig.VBS
+	    Changed   		   62329	SSTR_sample 1.xlsx
+	    Changed   		   62143	SSTR_sample 2.xlsx
+	    Changed   		   62297	SSTR_sample 3.xlsx
+	    Newer     		   14384	UI_wide.TDV
+	                   1	C:\Users\GAK1LOD\OneDrive - Bosch Group\Backup Diadem scripts\Scripts\trash\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         0         2         0         0         0
+   Files :        75         7        68         0         0         0
+   Bytes :   15.25 m   12.09 m    3.16 m         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           269ÿ858ÿ106 Bytes/sec.
+   Speed :             15441,404 MegaBytes/min.
+   Ended : wtorek, 16 wrzesnia 2025 14:38:06
+
+ 
+Deployment zakonczony: 16.09.2025 14:38:07,01 
+ 
+================================================== 
+Deployment uruchomiony: 16.09.2025 14:39:44,09 
+================================================== 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : wtorek, 16 wrzesnia 2025 14:39:44
+   Source : C:\Users\GAK1LOD\OneDrive - Bosch Group\Backup Diadem scripts\Scripts\
+     Dest : C:\Users\GAK1LOD\OneDrive - Bosch Group\LaundryTreatment - Diadem scripts\Scripts\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /NP /XO /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	                  74	C:\Users\GAK1LOD\OneDrive - Bosch Group\Backup Diadem scripts\Scripts\
+	    Newer     		   24784	mass2FMC_testrig.VBS
+	                   1	C:\Users\GAK1LOD\OneDrive - Bosch Group\Backup Diadem scripts\Scripts\trash\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         0         2         0         0         0
+   Files :        75         1        74         0         0         0
+   Bytes :   15.25 m    24.2 k   15.23 m         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :             826ÿ133 Bytes/sec.
+   Speed :              47,272 MegaBytes/min.
+   Ended : wtorek, 16 wrzesnia 2025 14:39:44
+
+ 
+Deployment zakonczony: 16.09.2025 14:39:44,22 
+ 
+================================================== 
+Deployment uruchomiony: 22.09.2025  9:19:18,33 
+================================================== 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : poniedzialek, 22 wrzesnia 2025 09:19:18
+   Source : C:\Users\GAK1LOD\OneDrive - Bosch Group\Backup Diadem scripts\Scripts\
+     Dest : C:\Users\GAK1LOD\OneDrive - Bosch Group\LaundryTreatment - Diadem scripts\Scripts\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /NP /XO /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	                  76	C:\Users\GAK1LOD\OneDrive - Bosch Group\Backup Diadem scripts\Scripts\
+	    Newer     		     316	All.lst
+	    New File  		  178758	iButton.TDR
+	    New File  		   13114	iButton2TDMS.VBS
+	    Newer     		  11.9 m	log.txt
+	    Newer     		   24772	mass2FMC_testrig.VBS
+	    Newer     		  181593	UI_wide.SUD
+	                   1	C:\Users\GAK1LOD\OneDrive - Bosch Group\Backup Diadem scripts\Scripts\trash\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         0         2         0         0         0
+   Files :        77         6        71         0         0         0
+   Bytes :   15.49 m   12.31 m    3.18 m         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           222ÿ572ÿ431 Bytes/sec.
+   Speed :             12735,696 MegaBytes/min.
+   Ended : poniedzialek, 22 wrzesnia 2025 09:19:18
+
+ 
+Deployment zakonczony: 22.09.2025  9:19:18,55 
+ 
